@@ -1,0 +1,13 @@
+
+
+.topBg {
+    position: relative;
+    padding: 142px 0 0;
+    box-sizing: border-box;
+    width: 714px;
+    height: 352px;
+    background: url(/src/lib/images/favicon.png) no-repeat center;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
