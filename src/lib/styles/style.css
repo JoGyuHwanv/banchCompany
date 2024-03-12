@@ -2,11 +2,12 @@
 
 .topBg {
     position: relative;
-    padding: 142px 0 0;
+    padding: 300px 0 0;
     box-sizing: border-box;
     width: 714px;
     height: 352px;
-    background: url(/src/lib/images/favicon.png) no-repeat center;
+    /* background: url(/src/lib/images/favicon.png) no-repeat center; */
+    background: url(/src/lib/images/inte1.jpeg) no-repeat center;
     right: 0;
     bottom: 0;
     z-index: -1;
